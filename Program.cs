@@ -6,7 +6,7 @@ namespace Persona
 {
     class Persona
     {
-        //Campos
+        //Campos o atributos
         private string _nombre;
         private string _apellido;
         public string correo { get; set; }
